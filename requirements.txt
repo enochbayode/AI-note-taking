@@ -1,0 +1,12 @@
+fastapi
+faster_whisper
+transformers
+uvicorn
+# tokenizers
+numpy
+# torchaudio
+# torchvision
+# pydub
+# spacy
+ffmpeg
+
